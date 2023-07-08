@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605410093928",
+    "project_id": "lilstex-handnote",
+    "storage_bucket": "lilstex-handnote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605410093928:android:845f94f9fa6305b66d04dd",
+        "android_client_info": {
+          "package_name": "ng.net.emmanuelmbagwu.handnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605410093928-8lod88it5lnim5opqdudnlf5g37ieh4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvFzl0gYD5OfvZpyB95xYzFgRcIIhhEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605410093928-8lod88it5lnim5opqdudnlf5g37ieh4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
